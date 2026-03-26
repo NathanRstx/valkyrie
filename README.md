@@ -70,6 +70,7 @@ On peut aussi choisir de regarder les zones similaires par rapport à un point o
 
 -les paramètres topk et Radius permettent de choisir le pourcentage  et la taille minimum des zones similaires
 
+Attention, il y a un bug pas encore corrigé, l'application tente d'afficher le résultat du traitement alors que le script est encore en cours d'éxecution, relancer le traitement une deuxième fois permet de visualiser.
 
 Géolocalisation:
 
