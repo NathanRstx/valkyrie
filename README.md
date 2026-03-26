@@ -48,7 +48,7 @@ sudo apt install podman-docker
 
 
 ### Utilisation du logiciel:
-Compiler via QT en chargeant Valkyrie2.pro et configurer dans le dossier app/build/Desktop-Debug, puis ctrl+R dans l'application pour lancer le logiciel.
+Lancer l'application  Valkyrie située dans le dosier app/Release/application ou alors si vous modifiez le code c++ Compiler via QT en chargeant Valkyrie2.pro et configurer dans le dossier app/build/Desktop-Debug, puis ctrl+R dans l'application pour lancer le logiciel.
 
 Orthomosaïque :
 en cliquant sur le bouton "importer images" de l'onglet orthomosaïque, Chargez le dossier contenant toutes les images capturées par drone puis cliquez sur "générer orthomosaïque" et choisir un dossier pour mettre le résultat.
@@ -72,4 +72,7 @@ On peut aussi choisir de regarder les zones similaires par rapport à un point o
 
 
 Géolocalisation:
-Fonctionnalité pas encore implémentée
+
+chargez image.tif
+
+cliquer sur un poxel affiche les coordonnées en bas à gauche
